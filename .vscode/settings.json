@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "spritesheet.h": "c",
+        "winscreen.h": "c",
+        "instructionsscreen.h": "c",
+        "mylib.h": "c"
+    }
+}
